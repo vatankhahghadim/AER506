@@ -2,7 +2,7 @@
 
 **Prepared by: Behrad Vatankhahghadim**
 
-Contact: Behrad.Vatankhahghadim@mail.utoronto.ca
+Contact: Behrad.Vatankhahghadim@mail.UToronto.ca
 
 ### Prologue
 
