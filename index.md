@@ -1,5 +1,4 @@
-## Spacecraft Dynamics and Control
-### AER506 - Fall 2018 - University of Toronto
+### Fall 2018 - University of Toronto
 
 **Prepared by: Behrad Vatankhahghadim**
 
