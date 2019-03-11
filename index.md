@@ -11,7 +11,7 @@ the following resources:
 
 - *AER506 Course Notes*, C. J. Damaren, University of Toronto, Fall 2015
 
-- *AER506 Lecture Notes*, based on lectures by G. M. T. D’Eleuterio, University of Toronto, Fall 2013
+- *AER506 Notes*, based on lectures by G. M. T. D’Eleuterio, University of Toronto, Fall 2013
 
 - *Spacecraft Dynamics and Control: an Introduction*, A. H. J. de Ruiter, C. J. Damaren, J. R. Forbes; Wiley, 2013
 
