@@ -4,6 +4,8 @@
 
 Contact: Behrad [dot] Vatankhahghadim [at] mail.UToronto.ca
 
+[Course Syllabus](./Syllabus.pdf)
+
 ### Prologue
 
 These course notes are developed for the students of Spacecraft Dynamics and Control (AER506) based on
