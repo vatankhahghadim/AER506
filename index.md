@@ -99,51 +99,50 @@ Constants of Torque-Free Motion, Angular Velocity and Attitude History of an Ine
 
 [Lecture Notes](./Notes/12 - Torque-Free Motion.pdf)
 
-### 13 - Spin Satbilization 
+### 13 - Spin Stabilization 
  
 Linear Stability of Simple Spins, Energy and Momentum Ellipsoids, Internal Energy Dissipation and Major Axis Rule
 
-[Lecture Notes]()
+[Lecture Notes](./Notes/13 - Spin Stabilization.pdf)
 
 ### 14 - Dual-Spin Stabilization 
 
 Dual-Spin Equations and Constants of Motion, Stability Conditions for Gyrostats with Nominally Non-Spinning Platforms and Principally-Aligned Wheels
 
-[Lecture Notes]()
+[Lecture Notes](./Notes/14 - Dual-Spin Stabilization.pdf)
 
 ### 15 - Energy Dissipation in Dual-Spins 
  
 Constrained Minimization Approach to Energy Dissipation, Stability Conditions in Presence of Dissipation for Gyrostats with Nominally Non-Spinning Platforms and Principally-Aligned Wheels
 
-[Lecture Notes]()
+[Lecture Notes](./Notes/15 - Energy Dissipation in Dual-Spins.pdf)
 
 ### 16 - Disturbance Torques 
 
 External Torques Affecting Attitude Motion: Magnetic, Aerodynamic, Solar Radiation Pressure and Gravity Gradient Torques 
 
-[Lecture Notes]()
+[Lecture Notes](./Notes/16 - Disturbance Torques.pdf)
 
 ### 17 - Gravity Gradient Stabilization 
 
 Equations of Rotational Motion under Influence of Gravity Gradient, Pitch and Roll/Yaw Stability Conditions, Effects of Damping on Attitude Stability
 
-[Lecture Notes]()
+[Lecture Notes](./Notes/17 - Gravity Gradient Stabilization.pdf)
 
 ### 18 - Active Attitude Control 
 
 Basics of Control Theory: Laplace Transform, Transfer Functions, System Interconnecions; Simple Feedback Attitude Controllers, Transient and Steady-State Performance in Reponse to Step Input
 
-[Lecture Notes]()
+[Lecture Notes](./Notes/18 - Active Attitude Control.pdf)
 
 ### 19 - Bias-Momentum Stabilization 
  
 Equations of Motion for Actively-Controlled Dual-Spin Spacecraft subject to Gravity Gradient Torques, Active Pitch Control and Roll/Yaw Control, Steady-State Performance
 
-[Lecture Notes]()
+[Lecture Notes](./Notes/19 - Bias-Momentum Stabilization.pdf)
 
 ### 20 - Nonlinear Attitude Control 
  
 A Brief Introduction to Nonlinear Attitude Control, Nonlinear Equations of Rotational Motion, Stability of Rate Feedback
 
-[Lecture Notes]()
-
+[Lecture Notes](./Notes/20 - Nonlinear Attitude Control.pdf)
