@@ -30,7 +30,7 @@ their in-class note-taking, and for reviewing the key concepts as the course pro
 
 Vectrix Notation, Reference Frames, Rotation Matrices and Change of Frames, Attitude Representations
 
-[Lecture Notes]()
+[Lecture Notes](./Notes/1 - Fundamentals.pdf)
 
 
 ### 2 - Kinematics 
