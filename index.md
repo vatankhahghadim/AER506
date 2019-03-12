@@ -37,67 +37,67 @@ Vectrix Notation, Reference Frames, Rotation Matrices and Change of Frames, Atti
 
 Geometry of Motion, Definition and Properties of Angular Velocity, Vector Derivatives in Rotating Frames, Relating Angular Velocity to Attitude
 
-[Lecture Notes]()
+[Lecture Notes](./Notes/2 - Kinematics.pdf)
 
 ### 3 - Dynamics 
  
 Science of Motion; Force/Momentum and Torque/Angular Momentum for Point Masses, Systems of Masses, and Rigid Bodies; Moment of Inertia Matrix and Its Properties
 
-[Lecture Notes]()
+[Lecture Notes](./Notes/3 - Dynamics.pdf)
 
 ### 4 - Orbital Mechanics 
  
 Two-Body Problem, Constants of Orbital Motion, Kepler's Laws and Newton's Law of Gravitation, Polar Equation and Conic Sections, Anomalies
 
-[Lecture Notes]()
+[Lecture Notes](./Notes/4 - Orbital Mechanics.pdf)
 
 ### 5 - Orbit Description and Determination 
 
 Position and Velocity from Classical Orbital Elements and Time, Orbital Elements from Position and Velocity, Lambert's Problem of Orbit Determination, Porkchop Plots
 
-[Lecture Notes]()
+[Lecture Notes](./Notes/5 - Orbit Description and Determination.pdf)
 
 ### 6 - Orbital Perturbations 
  
 Effects of Perturbations on Orbital Parameters, Numerical Approaches, Gauss' Variational Equations Parameters' Rate of Change, J2 Perturbations
 
-[Lecture Notes]()
+[Lecture Notes](./Notes/6 - Orbital Perturbations.pdf)
 
 ### 7 - Launch Vehicle Dynamics 
  
 Simplified Study of Forces on and Motion of Launch Vehicles, Focusing on Vertical Ascent, Turn-Over, and Gravity Turn Trajectories
 
-[Lecture Notes]()
+[Lecture Notes](./Notes/7 - Launch Vehicle Dynamics.pdf)
 
 ### 8 - Orbital Manoeuvres 
  
 General Manoeuvres; Radial Thrust; Tangential Thrust, Hohmann Transfer, and Rendezvous; Normal Thrust
 
-[Lecture Notes]()
+[Lecture Notes](./Notes/8 - Orbital Manoeuvres.pdf)
 
 ### 9 - Interplanetary Travel 
 
 Sphere of Influence, Hyperbolic Departure and Arrival Hyperbolae, Interplanetary Hohmann Transfer, Planetary Fly-By
 
-[Lecture Notes]()
+[Lecture Notes](./Notes/9 - Interplanetary Travel.pdf)
 
 ### 10 - Restricted Three-Body Problem 
  
 Equations of Circular Restricted Three-Body Motion, Lagrange Points and Their Stability, Jacobi Integral and Hill Curves
 
-[Lecture Notes]()
+[Lecture Notes](./Notes/10 - Restricted Three-Body Problem.pdf)
 
 ### 11 - Stability 
 
 Linear Stability and Linear Mechanical Systems, Input/Output Stability, Lyapunov Stability, Lyapunov's First Method
 
-[Lecture Notes]()
+[Lecture Notes](./Notes/11 - Stability.pdf)
 
 ### 12 - Torque-Free Motion 
  
 Constants of Torque-Free Motion, Angular Velocity and Attitude History of an Inertially Axisymmetrical Body, Geometrical Interpretation of Torque-Free Rotation
 
-[Lecture Notes]()
+[Lecture Notes](./Notes/12 - Torque-Free Motion.pdf)
 
 ### 13 - Spin Satbilization 
  
