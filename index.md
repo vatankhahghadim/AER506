@@ -1,4 +1,5 @@
 <meta name="google-site-verification" content="-3o-vGulwnDp_mm7-qeuggC_dB1nA3xNJHX4I1P8L_g" />
+{% seo %}
 
 ### Fall 2018 - University of Toronto
 
