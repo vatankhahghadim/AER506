@@ -1,7 +1,7 @@
 <meta name="google-site-verification" content="-3o-vGulwnDp_mm7-qeuggC_dB1nA3xNJHX4I1P8L_g" />
 {% seo %}
 
-### Fall 2018 - University of Toronto
+### Fall 2019 - University of Toronto
 
 **Prepared by: Behrad Vatankhahghadim**
 
@@ -146,7 +146,7 @@ Equations of Motion for Actively-Controlled Dual-Spin Spacecraft subject to Grav
 
 [Lecture Notes](./Notes/19 - Bias-Momentum Stabilization.pdf)
 
-### 20 - Nonlinear Attitude Control 
+### 20 - Nonlinear Attitude Control (Not Covered - From 2018)
  
 A Brief Introduction to Nonlinear Attitude Control, Nonlinear Equations of Rotational Motion, Stability of Rate Feedback
 
