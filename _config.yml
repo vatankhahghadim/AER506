@@ -1,4 +1,4 @@
-remote_theme: jekyll-theme-slate
+theme: jekyll-theme-slate
 
 plugins:
   - jekyll-seo-tag
